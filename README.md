@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi there, I'm Gayathri!
 
-<!--
-**Gayathri-Janagiraman/Gayathri-Janagiraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate MERN stack developer who loves crafting clean, responsive, and user-friendly web applications. I enjoy learning new technologies and building full-stack projects that solve real problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Frontend**  
+React · Tailwind CSS · JavaScript · Firebase Auth
+
+**Backend**  
+Node.js · Express.js · MongoDB · Stripe API
+
+**Tools**  
+Git · GitHub · Postman · VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ [ShopNest](https://github.com/yourusername/shopnest)
+A mini e-commerce platform built using the MERN stack.  
+**Key Features:**
+- 🔐Firebase Authentication  
+- 💳Stripe payment integration  
+- 🧑‍💼Admin-only product management  
+- 🛒Persistent cart with localStorage  
+- 📱Fully responsive UI
+
+
+### 📧 [BulkMail](https://github.com/yourusername/bulkmail)
+A MERN stack web application that allows users to send emails to multiple recipients by uploading an Excel (.xlsx) file.
+
+**Key Features:**
+- 📂 Upload Excel files with a list of email addresses
+- 📤 Send bulk emails instantly to all contacts
+- ✅ Input validation and status feedback for each email sent
+  
+---
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathri-Janagiraman&show_icons=true&theme=dracula)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gayathri-janagiraman7/)
+- 🐙 [GitHub](https://github.com/yourusername)
+- 📧 Email: gayathrijanagiraman86@gmail.com
+
+---
+
+_Thanks for visiting my profile! 😊_
+
