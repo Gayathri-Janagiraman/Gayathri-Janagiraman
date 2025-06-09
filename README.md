@@ -29,7 +29,7 @@ A mini e-commerce platform built using the MERN stack.
 - 📱Fully responsive UI
 
 
-### 📧 [BulkMail](https://github.com/yourusername/bulkmail)
+### 📧 [BulkMail](https://github.com/Gayathri-Janagiraman/BulkMail.git)
 A MERN stack web application that allows users to send emails to multiple recipients by uploading an Excel (.xlsx) file.
 
 **Key Features:**
