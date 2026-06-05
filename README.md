@@ -19,6 +19,20 @@ Git · GitHub · Postman · VS Code
 
 ## 🚀 Featured Projects
 
+### ⚖️ [LegalEase] · [Live Demo](https://legal-ease-pink.vercel.app/)
+
+A MERN stack web application that simplifies access to legal information through AI-powered assistance and legal resources.
+
+Key Features:
+
+🤖 AI Legal Assistant using OpenAI API
+📚 Categorized legal information and laws
+📄 Downloadable legal templates
+💡 Suggestion and feedback page
+☁️ MongoDB Atlas database integration
+📱 Responsive and user-friendly interface
+
+
 ### 🛍️ [ShopNest](https://github.com/Gayathri-Janagiraman/ShopNest.git) · [Live Demo](https://shop-nest-ee5sduoh5-gayathris-projects-c0d9a5b2.vercel.app/)
 A mini e-commerce platform built using the MERN stack.  
 **Key Features:**
@@ -27,17 +41,6 @@ A mini e-commerce platform built using the MERN stack.
 - 🧑‍💼Admin-only product management  
 - 🛒Persistent cart with localStorage  
 - 📱Fully responsive UI
-
-
-### 📧 [BulkMail](https://github.com/Gayathri-Janagiraman/BulkMail.git)
-A MERN stack web application that allows users to send emails to multiple recipients by uploading an Excel (.xlsx) file.
-
-**Key Features:**
-- 📂 Upload Excel files with a list of email addresses
-- 📤 Send bulk emails instantly to all contacts
-- ✅ Input validation and status feedback for each email sent
-  
----
 
 
 ## 📈 GitHub Stats
