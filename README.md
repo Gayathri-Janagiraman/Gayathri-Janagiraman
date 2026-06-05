@@ -19,18 +19,18 @@ Git · GitHub · Postman · VS Code
 
 ## 🚀 Featured Projects
 
-### ⚖️ [LegalEase] · [Live Demo](https://legal-ease-pink.vercel.app/)
+### ⚖️ [LegalEase](https://github.com/Gayathri-Janagiraman/LegalEase.git) · [Live Demo](https://legal-ease-pink.vercel.app/)
 
 A MERN stack web application that simplifies access to legal information through AI-powered assistance and legal resources.
 
-Key Features:
+**Key Features:**
 
-🤖 AI Legal Assistant using OpenAI API
-📚 Categorized legal information and laws
-📄 Downloadable legal templates
-💡 Suggestion and feedback page
-☁️ MongoDB Atlas database integration
-📱 Responsive and user-friendly interface
+- 🤖 AI Legal Assistant using OpenAI API
+- 📚 Categorized legal information and laws
+- 📄 Downloadable legal templates
+- 💡 Suggestion and feedback page
+- ☁️ MongoDB Atlas database integration
+- 📱 Responsive and user-friendly interface
 
 
 ### 🛍️ [ShopNest](https://github.com/Gayathri-Janagiraman/ShopNest.git) · [Live Demo](https://shop-nest-ee5sduoh5-gayathris-projects-c0d9a5b2.vercel.app/)
