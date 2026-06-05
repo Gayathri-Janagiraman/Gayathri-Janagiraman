@@ -54,7 +54,6 @@ A mini e-commerce platform built using the MERN stack.
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gayathri-janagiraman7/)
-- 🐙 [GitHub](https://github.com/Gayathri-Janagiraman)
 - 📧 Email: gayathrijanagiraman86@gmail.com
 
 ---
