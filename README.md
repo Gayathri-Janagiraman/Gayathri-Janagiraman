@@ -34,7 +34,9 @@ A MERN stack web application that simplifies access to legal information through
 
 
 ### 🛍️ [ShopNest](https://github.com/Gayathri-Janagiraman/ShopNest.git) · [Live Demo](https://shop-nest-ee5sduoh5-gayathris-projects-c0d9a5b2.vercel.app/)
+
 A mini e-commerce platform built using the MERN stack.  
+
 **Key Features:**
 - 🔐Firebase Authentication  
 - 💳Stripe payment integration  
