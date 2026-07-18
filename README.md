@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gayathri 👋</h1>
-<h3 align="center">MERN Stack Developer | Building full-stack products, not just demos</h3>
+<h3 align="center">MERN Stack Developer | Turning ideas into deployed, real-world applications</h3>
 
 <p align="center">
   I design and ship end-to-end web applications — from database schema to deployed UI.
