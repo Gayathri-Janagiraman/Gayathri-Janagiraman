@@ -26,12 +26,13 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 **Tools & Other**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
 
 ---
 
@@ -62,7 +63,6 @@ Full e-commerce platform with authentication, cart persistence, and payments —
 
 ### 📌 Currently
 
-- 🔭 Building a **Mental Wellness Journal** (MERN + Recharts) — my third portfolio project
 - 🌱 Sharpening DSA + system design fundamentals for interviews
 - 🎯 Targeting Full Stack / Software Engineer roles
 - 💬 Open to internships, junior roles, and collaboration on interesting projects
