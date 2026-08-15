@@ -39,7 +39,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🏥 [QueueFlow](https://github.com/Gayathri-Janagiraman/QueueFlow)  ·  [Live Demo](https://queue-flow-hazel.vercel.app/)
+#### 🏥 [QueueFlow](https://github.com/Gayathri-Janagiraman/QueueFlow.git)  ·  [Live Demo](https://queue-flow-hazel.vercel.app/)
 
 Real-time MERN-based queue management system that replaces physical waiting lines with a digital token system — allowing users to book tokens, track their live queue position, and helping admins manage queues efficiently.
 
