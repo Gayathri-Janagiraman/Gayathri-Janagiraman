@@ -51,8 +51,6 @@ Real-time MERN-based queue management system that replaces physical waiting line
 * 🔐 JWT-based authentication with role-based access control
 * ⏱️ Estimated waiting time and live queue status
 * ☁️ Cloud-hosted MongoDB Atlas database
-* 📱 Fully responsive, production-deployed UI
-
 
 #### ⚖️ [LegalEase](https://github.com/Gayathri-Janagiraman/LegalEase) &nbsp;·&nbsp; [Live Demo](https://legal-ease-pink.vercel.app/)
 AI-powered MERN platform that makes legal information accessible to non-lawyers — categorized legal resources, downloadable templates, and an AI legal assistant.
